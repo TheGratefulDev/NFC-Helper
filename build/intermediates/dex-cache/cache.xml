@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_cf26cd7aca54c11c3a06ec1b4ccdccdc612925a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_ac4250b3ba0dd3ef9f811acb692c3f5e0f7a55c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_01e9b5d75ec2f0b5880256019ce865473f9afc52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_f1dcd9cfa23b599bdf6ffe7495b485fbd897f1d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3826c2a73c0a4c0e1406f823978d7d9dd7fd89ae">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0630fef17319717bfbee65a00974ebce3032ca36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_9094a7662e3befda5d1d21cfca32c6346601e79d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_aa6977696446b6c407807efe0529a1999f35d1d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_1383b285cba83c5e3d4d018031851e80ef110068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_083b38a1ec41022f53cefc9f2188e1dbd052cf31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff211ba33b2da25f06be52924600b0eac4aee793">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd6b63fd89e2c6e9ec19db7960bcbf983eef3b04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_2ddc1667480a27fc841f5c85fbf5987bf394d57d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Kling/Downloads/android-nfc-tag-read-write-master/NFC-Helper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_07c0a389d3423846ba7d9835a999d81d54c592b1/classes.dex" />
+    </item>
+
+</items>

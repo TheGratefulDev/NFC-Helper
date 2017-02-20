@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9febd9a3bf21cd2a51c4ddb90f20550a04e21bc1.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0ff54dca4f6f4a097d3221906c542d8ab499468f.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1e292faf6e9aaee44db474bd2b484122acd9afa6.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.1.1-cf26cd7aca54c11c3a06ec1b4ccdccdc612925a9.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-1cf67f55e70ebe801be270114d12fd1277605405.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-635373c3b496cee287e3377bd780d5ae31cb5f68.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9f0fb15c1742d768fc11e82de5dcd9278f3de8bd.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-77e419c06964349d8a1b5d7bc083c26522517c0b.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f710005a917df129c0b4154ceb9e44cf82467566.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-04de13aa44ebe8872d6806d1c405dfbed20990b8.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Development/NFC-Helper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5eea3934f2849be40f8d3dced8bff0f828a182bf.jar" />
+    </item>
+    <item
+        jar="/Users/Kling/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/Kling/Development/NFC-Helper/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-f08afb71c58400996b82be8447c60d7795fb7a75.jar" />
+    </item>
+
+</items>
